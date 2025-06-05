@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.gabrielecanepa.com/manifest.schema.json",
+  "manifest_version": 3,
+  "version": "1.0.1",
+  "name": "GitHub Light",
+  "theme": {
+    "colors": {
+      "background_tab": [246, 248, 250],
+      "frame": [246, 248, 250],
+      "toolbar": [246, 248, 250],
+      "omnibox_background": [255, 255, 255],
+      "bookmark_text": [31, 35, 40],
+      "ntp_background": [246, 248, 250],
+      "ntp_header": [246, 248, 250],
+      "ntp_text": [31, 35, 40],
+      "ntp_link": [31, 35, 40]
+    }
+  }
+}
