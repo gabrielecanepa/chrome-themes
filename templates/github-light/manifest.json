@@ -1,0 +1,61 @@
+{
+  "$schema": "https://gabrielecanepa.github.io/chrome-themes/schema.json",
+  "manifest_version": 3,
+  "version": "1.0.1",
+  "name": "GitHub Light",
+  "description": "A clean light theme for Chrome, inspired by the classic GitHub design.",
+  "theme": {
+    "colors": {
+      "background_tab": [
+        239,
+        242,
+        245
+      ],
+      "frame": [
+        239,
+        242,
+        245
+      ],
+      "toolbar": [
+        255,
+        255,
+        255
+      ],
+      "omnibox_background": [
+        246,
+        248,
+        250
+      ],
+      "toolbar_button_icon": [
+        9,
+        105,
+        218
+      ],
+      "bookmark_text": [
+        31,
+        35,
+        40
+      ],
+      "ntp_background": [
+        255,
+        255,
+        255
+      ],
+      "ntp_header": [
+        255,
+        255,
+        255
+      ],
+      "ntp_text": [
+        31,
+        35,
+        40
+      ],
+      "ntp_link": [
+        9,
+        105,
+        218
+      ]
+    }
+  }
+}
